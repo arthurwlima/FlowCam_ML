@@ -1,2 +1,2 @@
 # FlowCam_ML
-Simple Machine Learning functions for automatic classification of FlowCam images
+Simple Machine Learning algorithms for automatic classification of FlowCam images
